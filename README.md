@@ -8,8 +8,6 @@
 <details>
 <summary>Tableau study</summary>
 <div markdown="1">       
-
-2021-10-08
-
+https://www.notion.so/Tableau-7a818a7bb01646c586d26a448670b293
 </div>
 </details>

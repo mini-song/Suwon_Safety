@@ -6,7 +6,7 @@
 
 
 ### Final 제출 결과
-
+![그림1](https://user-images.githubusercontent.com/72810643/139687045-32a3e51d-676d-4305-9d63-aef5639a5dff.png)
 + https://nbviewer.org/github/mini-song/Suwon_Safety/blob/master/suwon_analysis%20_final.ipynb
 
 

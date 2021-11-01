@@ -4,6 +4,12 @@
 ### 10.05
 ![다운로드](https://user-images.githubusercontent.com/72810643/135878512-78549d74-0c83-4b45-baab-69c054cbfb29.PNG)
 
+
+### Final 제출 결과
+
++ https://nbviewer.org/github/mini-song/Suwon_Safety/blob/master/suwon_analysis%20_final.ipynb
+
+
 ### Tableau study
 <details>
 <summary>Tableau study</summary>
